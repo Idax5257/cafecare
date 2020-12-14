@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a515e005-72b9-4c99-aafb-1da0cacd31d4" name="Default Changelist" comment="" />
+    <list default="true" id="a515e005-72b9-4c99-aafb-1da0cacd31d4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +13,18 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML skabelon med JQuery" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1lN9rFzeMGJWvSsLtqjjO4HqXQl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -18,6 +32,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
@@ -59,6 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607426881606</updated>
       <workItem from="1607426884132" duration="476000" />
+      <workItem from="1607967333327" duration="383000" />
     </task>
     <servers />
   </component>
@@ -66,6 +82,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="592" y="354" key="Github.ShareDialog" timestamp="1607967525215">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="592" y="354" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1607967525215" />
+    <state x="450" y="155" key="Github.UntrackedFilesDialog" timestamp="1607967577761">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state x="450" y="155" key="Github.UntrackedFilesDialog/0.23.1440.810@0.23.1440.810" timestamp="1607967577761" />
     <state width="1398" height="208" key="GridCell.Tab.0.bottom" timestamp="1607426946710">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
