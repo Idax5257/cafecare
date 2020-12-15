@@ -2,7 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a515e005-72b9-4c99-aafb-1da0cacd31d4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/FN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Madspild.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Velkommen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/baredygtighed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logotype.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cafecare.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cafecare.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/129075876_661379634535828_6727028170276969282_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Bæredygtighed - mob.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Bæredygtighed - web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Logomark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Menukort - web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Menukort.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Produkter - mob.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Produkter - web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Samarbejde partnere - mob.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Samarbejde partnere - web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Skærmbillede 2020-12-08 kl. 12.12.18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Søg arbejde - mob.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Søg arbejde - web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bæredygtige produkter - mob.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bæredygtige produkter - web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gavekort.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kaffe kop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kuglepind.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/menukort.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/notesbog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/om os - mob.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/om os - web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/stempelkort.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/velkommer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/visit1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/visit2.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,13 +59,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lN9rFzeMGJWvSsLtqjjO4HqXQl" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -74,7 +114,8 @@
       <option name="presentableId" value="Default" />
       <updated>1607426881606</updated>
       <workItem from="1607426884132" duration="476000" />
-      <workItem from="1607967333327" duration="3151000" />
+      <workItem from="1607967333327" duration="4804000" />
+      <workItem from="1608026347644" duration="1064000" />
     </task>
     <task id="LOCAL-00001" summary="Nye filer">
       <created>1607976988777</created>
@@ -97,22 +138,38 @@
       <option name="project" value="LOCAL" />
       <updated>1608022586602</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="??">
+      <created>1608023955659</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608023955660</updated>
+    </task>
+    <task id="LOCAL-00005" summary="??">
+      <created>1608025837651</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608025837651</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Nye filer" />
     <MESSAGE value="ny farvekode" />
-    <option name="LAST_COMMIT_MESSAGE" value="ny farvekode" />
+    <MESSAGE value="??" />
+    <option name="LAST_COMMIT_MESSAGE" value="??" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="297" y="25" key="CommitChangelistDialog2" timestamp="1608022586296">
+    <state x="297" y="25" key="CommitChangelistDialog2" timestamp="1608025837244">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="297" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1608022586296" />
+    <state x="297" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1608025837244" />
     <state x="592" y="354" key="Github.ShareDialog" timestamp="1607967525215">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
