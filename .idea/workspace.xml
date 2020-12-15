@@ -11,33 +11,6 @@
       <change afterPath="$PROJECT_DIR$/images/logotype.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/cafecare.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cafecare.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/129075876_661379634535828_6727028170276969282_n.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Bæredygtighed - mob.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Bæredygtighed - web.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Logomark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Menukort - web.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Menukort.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Produkter - mob.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Produkter - web.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Samarbejde partnere - mob.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Samarbejde partnere - web.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Skærmbillede 2020-12-08 kl. 12.12.18.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Søg arbejde - mob.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Søg arbejde - web.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bæredygtige produkter - mob.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bæredygtige produkter - web.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gavekort.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kaffe kop.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kuglepind.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/menukort.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/notesbog.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/om os - mob.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/om os - web.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/stempelkort.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/velkommer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/visit1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/visit2.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,7 +88,7 @@
       <updated>1607426881606</updated>
       <workItem from="1607426884132" duration="476000" />
       <workItem from="1607967333327" duration="4804000" />
-      <workItem from="1608026347644" duration="1064000" />
+      <workItem from="1608026347644" duration="1679000" />
     </task>
     <task id="LOCAL-00001" summary="Nye filer">
       <created>1607976988777</created>
@@ -152,7 +125,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608025837651</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="hej">
+      <created>1608028048418</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608028048418</updated>
+    </task>
+    <task id="LOCAL-00007" summary="nye farvekoder">
+      <created>1608028368018</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608028368018</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,13 +150,16 @@
     <MESSAGE value="Nye filer" />
     <MESSAGE value="ny farvekode" />
     <MESSAGE value="??" />
-    <option name="LAST_COMMIT_MESSAGE" value="??" />
+    <MESSAGE value="hej" />
+    <MESSAGE value="nye farvekoder" />
+    <option name="LAST_COMMIT_MESSAGE" value="nye farvekoder" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="297" y="25" key="CommitChangelistDialog2" timestamp="1608025837244">
+    <state x="297" y="25" key="CommitChangelistDialog2" timestamp="1608028608990">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="297" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1608025837244" />
+    <state x="297" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1608028608990" />
+    <state x="297" y="23" key="CommitChangelistDialog2/0.23.1440.810@0.23.1440.810" timestamp="1608028367711" />
     <state x="592" y="354" key="Github.ShareDialog" timestamp="1607967525215">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
