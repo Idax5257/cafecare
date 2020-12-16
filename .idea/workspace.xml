@@ -2,22 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a515e005-72b9-4c99-aafb-1da0cacd31d4" name="Default Changelist" comment="nyt billede">
-      <change afterPath="$PROJECT_DIR$/images/menudrikke.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/menumad.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/cafecare.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cafecare.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/menudrikke.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/menudrikke.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/menumad.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/menumad.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/togoodtogo.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +96,7 @@
       <workItem from="1608026347644" duration="6529000" />
       <workItem from="1608106804712" duration="4206000" />
       <workItem from="1608113694824" duration="319000" />
+      <workItem from="1608114390789" duration="1548000" />
     </task>
     <task id="LOCAL-00001" summary="Nye filer">
       <created>1607976988777</created>
