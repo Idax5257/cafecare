@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a515e005-72b9-4c99-aafb-1da0cacd31d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/Kuglepind.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Notesbog.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/To_go_cup.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Visit1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Visit2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gavekort.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/stemplekort.png" afterDir="false" />
+    <list default="true" id="a515e005-72b9-4c99-aafb-1da0cacd31d4" name="Default Changelist" comment="produkt billeder">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baredygtighed.html" beforeDir="false" afterPath="$PROJECT_DIR$/baredygtighed.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/_myStyles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/_myStyles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/kontakt.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/omos.html" beforeDir="false" afterPath="$PROJECT_DIR$/omos.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,10 +78,22 @@
       <envs />
       <method v="2" />
     </configuration>
+    <configuration name="watch" type="js.build_tools.gulp" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>watch</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gulp.js.js" />
+        <item itemvalue="Gulp.js.watch" />
         <item itemvalue="Gulp.js.styles" />
+        <item itemvalue="Gulp.js.js" />
       </list>
     </recent_temporary>
   </component>
@@ -103,7 +110,9 @@
       <workItem from="1608026347644" duration="6529000" />
       <workItem from="1608106804712" duration="4206000" />
       <workItem from="1608113694824" duration="319000" />
-      <workItem from="1608114390789" duration="2750000" />
+      <workItem from="1608114390789" duration="7480000" />
+      <workItem from="1608192994063" duration="1758000" />
+      <workItem from="1608195513695" duration="90000" />
     </task>
     <task id="LOCAL-00001" summary="Nye filer">
       <created>1607976988777</created>
@@ -224,7 +233,42 @@
       <option name="project" value="LOCAL" />
       <updated>1608116456916</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="nye billeder tilføjet">
+      <created>1608119297688</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1608119297688</updated>
+    </task>
+    <task id="LOCAL-00019" summary="underside færdig">
+      <created>1608122236252</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1608122236253</updated>
+    </task>
+    <task id="LOCAL-00020" summary="produkt billeder">
+      <created>1608122251893</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1608122251893</updated>
+    </task>
+    <task id="LOCAL-00021" summary="links til undersider">
+      <created>1608123901120</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1608123901120</updated>
+    </task>
+    <task id="LOCAL-00022" summary="ny underside">
+      <created>1608123910396</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1608123910396</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,13 +289,18 @@
     <MESSAGE value="rettelser i footer" />
     <MESSAGE value="rettelser tilføjet" />
     <MESSAGE value="???" />
-    <option name="LAST_COMMIT_MESSAGE" value="???" />
+    <MESSAGE value="nye billeder tilføjet" />
+    <MESSAGE value="underside færdig" />
+    <MESSAGE value="produkt billeder" />
+    <MESSAGE value="links til undersider" />
+    <MESSAGE value="ny underside" />
+    <option name="LAST_COMMIT_MESSAGE" value="ny underside" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="297" y="25" key="CommitChangelistDialog2" timestamp="1608116456655">
+    <state x="297" y="25" key="CommitChangelistDialog2" timestamp="1608123910277">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="297" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1608116456655" />
+    <state x="297" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1608123910277" />
     <state x="297" y="23" key="CommitChangelistDialog2/0.23.1440.810@0.23.1440.810" timestamp="1608028367711" />
     <state x="592" y="354" key="Github.ShareDialog" timestamp="1607967525215">
       <screen x="0" y="0" width="1440" height="900" />
@@ -261,25 +310,37 @@
       <screen x="0" y="23" width="1440" height="810" />
     </state>
     <state x="450" y="155" key="Github.UntrackedFilesDialog/0.23.1440.810@0.23.1440.810" timestamp="1607967577761" />
-    <state width="1398" height="208" key="GridCell.Tab.0.bottom" timestamp="1608114251888">
+    <state width="1398" height="208" key="GridCell.Tab.0.bottom" timestamp="1608124511546">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="208" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1608114251888" />
-    <state width="1398" height="208" key="GridCell.Tab.0.center" timestamp="1608114251885">
+    <state width="1398" height="208" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1608124511546" />
+    <state width="1398" height="208" key="GridCell.Tab.0.center" timestamp="1608124511544">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="208" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1608114251885" />
-    <state width="1398" height="208" key="GridCell.Tab.0.left" timestamp="1608114251884">
+    <state width="1398" height="208" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1608124511544" />
+    <state width="1398" height="208" key="GridCell.Tab.0.left" timestamp="1608124511543">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="208" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1608114251884" />
-    <state width="1398" height="208" key="GridCell.Tab.0.right" timestamp="1608114251886">
+    <state width="1398" height="208" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1608124511543" />
+    <state width="1398" height="208" key="GridCell.Tab.0.right" timestamp="1608124511545">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="208" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1608114251886" />
+    <state width="1398" height="208" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1608124511545" />
+    <state x="229" y="86" key="SettingsEditor" timestamp="1608195346873">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="86" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1608195346873" />
     <state x="518" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608018436412">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="518" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1608018436412" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1608119339199">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.0.1440.900@0.0.1440.900" timestamp="1608119339199" />
+    <state x="385" y="210" key="run.anything.popup" timestamp="1608193790750">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="210" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1608193790750" />
   </component>
 </project>
