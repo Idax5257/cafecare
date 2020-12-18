@@ -2,19 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a515e005-72b9-4c99-aafb-1da0cacd31d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/fn13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/404.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arbejde.html" beforeDir="false" afterPath="$PROJECT_DIR$/arbejde.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baredygtighed.html" beforeDir="false" afterPath="$PROJECT_DIR$/baredygtighed.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/_myStyles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/_myStyles.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fn.html" beforeDir="false" afterPath="$PROJECT_DIR$/fn.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/historie.html" beforeDir="false" afterPath="$PROJECT_DIR$/historie.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fn12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/kontakt.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/omos.html" beforeDir="false" afterPath="$PROJECT_DIR$/omos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/produkter.html" beforeDir="false" afterPath="$PROJECT_DIR$/produkter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css.map" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +116,7 @@
       <workItem from="1608195513695" duration="90000" />
       <workItem from="1608195702845" duration="10554000" />
       <workItem from="1608222051582" duration="3193000" />
-      <workItem from="1608278963073" duration="2283000" />
+      <workItem from="1608278963073" duration="7403000" />
     </task>
     <task id="LOCAL-00001" summary="Nye filer">
       <created>1607976988777</created>
@@ -363,7 +356,35 @@
       <option name="project" value="LOCAL" />
       <updated>1608224398813</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="ændring i footer">
+      <created>1608282943103</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1608282943104</updated>
+    </task>
+    <task id="LOCAL-00036" summary="færdig">
+      <created>1608287827279</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1608287827280</updated>
+    </task>
+    <task id="LOCAL-00037" summary="færdig">
+      <created>1608288646740</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1608288646740</updated>
+    </task>
+    <task id="LOCAL-00038" summary="færdig">
+      <created>1608288652176</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1608288652176</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -371,8 +392,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="nye farvekoder" />
-    <MESSAGE value="Nye billeder" />
     <MESSAGE value="idk" />
     <MESSAGE value="nyt billede" />
     <MESSAGE value="ny underside tilføjet" />
@@ -396,6 +415,8 @@
     <MESSAGE value="ny fil" />
     <MESSAGE value="lidt af hvert" />
     <MESSAGE value="tjekning af header og footer" />
-    <option name="LAST_COMMIT_MESSAGE" value="tjekning af header og footer" />
+    <MESSAGE value="ændring i footer" />
+    <MESSAGE value="færdig" />
+    <option name="LAST_COMMIT_MESSAGE" value="færdig" />
   </component>
 </project>
