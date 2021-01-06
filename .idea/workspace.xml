@@ -1,54 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a515e005-72b9-4c99-aafb-1da0cacd31d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/Baredygtighed_web.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Bæredygtighed_mob.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Find_mob.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Find_web.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Menukort_mob.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Menukort_web.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Produkter_mob.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Produktere_web.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Samarbejdepartnere_mob.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Samarbejdepartnere_web.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Søg arbejde_mob.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/arbejde_web.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/fn.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/fn_mob.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/fn_web.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/madspil.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/menu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/om os_mob.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/omos_web.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/produkter.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/velkommen.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/404.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/404.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Arbejde_mob.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Arbejde_web.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Bæredygtighed_mob.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Bæredygtighed_web.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/FN.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Find_mob.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Find_web.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Madspild.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Menu.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Menukort_mob.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Menukort_web.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Om_mob.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Om_web.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Produkter_mob.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Produkter_web.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Samarbejde partnere_mob.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Samarbejde partnere_web.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Velkommen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/baredygtighed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fn_mob.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fn_web.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="a515e005-72b9-4c99-aafb-1da0cacd31d4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -165,6 +118,7 @@
       <workItem from="1609321694351" duration="231000" />
       <workItem from="1609746431494" duration="537000" />
       <workItem from="1609748804595" duration="398000" />
+      <workItem from="1609754920168" duration="301000" />
     </task>
     <task id="LOCAL-00001" summary="Nye filer">
       <created>1607976988777</created>
@@ -460,7 +414,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608540814461</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="ændringer">
+      <created>1609755031289</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1609755031289</updated>
+    </task>
+    <task id="LOCAL-00044" summary="billeder">
+      <created>1609755145956</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1609755145956</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -468,7 +436,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="rettelser i footer" />
     <MESSAGE value="rettelser tilføjet" />
     <MESSAGE value="???" />
     <MESSAGE value="nye billeder tilføjet" />
@@ -476,7 +443,6 @@
     <MESSAGE value="produkt billeder" />
     <MESSAGE value="links til undersider" />
     <MESSAGE value="ny underside" />
-    <MESSAGE value="ændringer" />
     <MESSAGE value="404 tilføjet" />
     <MESSAGE value="ændringer i footer samt header" />
     <MESSAGE value="nye undersider" />
@@ -493,6 +459,8 @@
     <MESSAGE value="..." />
     <MESSAGE value="tekst ændring" />
     <MESSAGE value="tekst ændringer" />
-    <option name="LAST_COMMIT_MESSAGE" value="tekst ændringer" />
+    <MESSAGE value="ændringer" />
+    <MESSAGE value="billeder" />
+    <option name="LAST_COMMIT_MESSAGE" value="billeder" />
   </component>
 </project>
