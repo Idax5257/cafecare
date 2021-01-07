@@ -3,7 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="a515e005-72b9-4c99-aafb-1da0cacd31d4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arbejde.html" beforeDir="false" afterPath="$PROJECT_DIR$/arbejde.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baredygtighed.html" beforeDir="false" afterPath="$PROJECT_DIR$/baredygtighed.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fn.html" beforeDir="false" afterPath="$PROJECT_DIR$/fn.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/historie.html" beforeDir="false" afterPath="$PROJECT_DIR$/historie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/kontakt.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/menu.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/omos.html" beforeDir="false" afterPath="$PROJECT_DIR$/omos.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +30,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1lN9rFzeMGJWvSsLtqjjO4HqXQl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -125,7 +140,7 @@
       <workItem from="1609754920168" duration="301000" />
       <workItem from="1609927922742" duration="93000" />
       <workItem from="1609928078477" duration="15000" />
-      <workItem from="1610006218085" duration="1431000" />
+      <workItem from="1610006218085" duration="4084000" />
     </task>
     <task id="LOCAL-00001" summary="Nye filer">
       <created>1607976988777</created>
@@ -442,7 +457,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609927938239</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="slideshow virker igen">
+      <created>1610008662148</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1610008662149</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -450,7 +472,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="rettelser tilføjet" />
     <MESSAGE value="???" />
     <MESSAGE value="nye billeder tilføjet" />
     <MESSAGE value="underside færdig" />
@@ -475,6 +496,7 @@
     <MESSAGE value="tekst ændringer" />
     <MESSAGE value="ændringer" />
     <MESSAGE value="billeder" />
-    <option name="LAST_COMMIT_MESSAGE" value="billeder" />
+    <MESSAGE value="slideshow virker igen" />
+    <option name="LAST_COMMIT_MESSAGE" value="slideshow virker igen" />
   </component>
 </project>
